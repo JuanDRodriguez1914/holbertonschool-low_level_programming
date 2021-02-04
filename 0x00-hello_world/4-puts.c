@@ -7,7 +7,6 @@
  * Return: Programing is like building a multilingual puzzle
  */
 Int main(void)
-
 {
 	char snake[54] = "\"Programming is like building a multilingual puzzle";
 
