@@ -1,8 +1,8 @@
 #!/bin/bash
+#include <stdio.h>
 int main(void)
 {
-        puts("Programming is like building a multilingual puzzle");
+        char stri[45] = "\"Programming is like building a multilingual";
+        puts(stri);
         return (0);
 }
-
-
